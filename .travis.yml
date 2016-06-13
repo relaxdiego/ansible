@@ -28,6 +28,7 @@ addons:
       - python2.4
 install:
   - pip install tox
+  - pip install apache-libcloud
 script:
   - ./test/utils/run_tests.sh
 notifications:

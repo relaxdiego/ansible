@@ -63,3 +63,4 @@ Vagrantfile
 ansible.egg-info/
 /shippable/
 tags
+.cache
